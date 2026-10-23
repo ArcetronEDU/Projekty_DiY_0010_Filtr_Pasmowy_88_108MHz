@@ -3,7 +3,7 @@ Materiały dodatkowe do filmów "Arduino to takie proste" (https://www.youtube.c
 
 Opis: Filtr pasmowy 88-108Mhz przepustowy, używając tego filtra wycinamy wszystkie niepotrzebne częstotliwości z poza zakresu radia FM 88-108MHz, pozostawiając tylko pożądany sygnał
 
-- Zaleta: nie ma efektu ciszy, zaniku sygnału radia spowodowany nadajnikami dużej mocy z okolicy [CB radio, Służby, Radio Taxi]
+- Zaleta: nie ma efektu ciszy, zaniku sygnału radia spowodowany nadajnikami dużej mocy z okolicy [CB radia, Służb, Radio Taxi]
 - Wada: filtr osłabia trochę sygnał w okolicach 3 Decybeli
 
 Pliki są w formacie wektorowym [.svg] i możesz je otworzyć i wydrukować używając programu: InkScape
